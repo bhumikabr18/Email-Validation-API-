@@ -12,7 +12,7 @@ This project implements an Email Validation API using AWS API Gateway and AWS La
 <br>
 3. Python: Used as the runtime environment for the Lambda function.
 <br>
-4. Postman: Optional, used for testing the API.
+4. Postman: Used for testing the API.
 
 # Features
 * Validates email addresses based on their format using a regular expression.
