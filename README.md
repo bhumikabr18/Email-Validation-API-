@@ -1,5 +1,8 @@
 # Email-Validation-API
 
+# Demonstration video
+https://www.loom.com/share/d37509d6440a433d880d9fc824e65a41?sid=8ba03a72-d709-4456-8819-3fedbd7b24bc
+
 # Overview
 <br>
 This project implements an Email Validation API using AWS API Gateway and AWS Lambda. The API validates the format of provided email addresses but does not check if the domain exists. It ensures that email addresses follow a standard structure like example@domain.com.
